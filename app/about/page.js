@@ -20,7 +20,7 @@ const About = () => {
         <h2 className="text-2xl sm:text-3xl font-bold mb-4">Contact Us</h2>
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-6 px-4 justify-center">
           <Link
-            href="https://www.linkedin.com/in/adarsh-pandey"
+            href="https://www.linkedin.com/in/adarshpandey1133"
             target="_blank"
             className="text-white text-center text-lg font-semibold hover:underline"
           >
