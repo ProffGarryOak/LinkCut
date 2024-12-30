@@ -28,13 +28,13 @@ const Navbar = () => {
 
       <ul className="hidden md:flex space-x-8 items-center text-lg ml-auto">
         <li className="transition-all transform hover:scale-105">
-          <Link href="/contact">Contact Us</Link>
+          <Link href="https://proffgarryoak.github.io/Portfolio/" target="_blank">Portfolio</Link>
         </li>
         <li className="transition-all transform hover:scale-105">
-          <Link href="/portfolio">Portfolio</Link>
+          <Link href="https://in.linkedin.com/in/adarshpandey1133" target="_blank">LinkedIn</Link>
         </li>
         <li className="transition-all transform hover:scale-105">
-          <Link href="/github">GitHub</Link>
+          <Link href="https://github.com/ProffGarryOak" target="_blank">GitHub</Link>
         </li>
       </ul>
 

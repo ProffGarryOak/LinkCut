@@ -1,7 +1,7 @@
 import clientPromise from "@/lib/mongodb";
 import mongoose from "mongoose";
 
-// Define your schema and model
+
 const UrlSchema = new mongoose.Schema({
   url: {
     type: String,
@@ -34,7 +34,7 @@ export async function POST(request) {
       });
     }
 
-    // Insert new URL document
+    
     const newUrl = new Url({
       url: body.url,
       shorturl: body.shorturl,

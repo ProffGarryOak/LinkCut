@@ -27,28 +27,28 @@ const About = () => {
             LinkedIn
           </Link>
           <Link
-            href="https://github.com/adarshpandey"
+            href="https://github.com/proffgarryoak"
             target="_blank"
             className="text-white text-center text-lg font-semibold hover:underline"
           >
             GitHub
           </Link>
           <Link
-            href="https://adarshpandey.com"
+            href="https://proffgarryoak.github.io/Portfolio/"
             target="_blank"
             className="text-white text-center text-lg font-semibold hover:underline"
           >
             Portfolio
           </Link>
           <Link
-            href="https://twitter.com/adarshpandey"
+            href="https://twitter.com/proffgarryoak"
             target="_blank"
             className="text-white text-center text-lg font-semibold hover:underline"
           >
             Twitter
           </Link>
           <Link
-            href="mailto:adarshpandey@example.com"
+            href="mailto:adarshp1133@gmail.com"
             target="_blank"
             className="text-white text-center text-lg font-semibold hover:underline"
           >
